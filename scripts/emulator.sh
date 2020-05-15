@@ -1,0 +1,1 @@
+emulator -avd myemulator -gpu on
